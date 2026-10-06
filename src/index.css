@@ -1,1 +1,7 @@
-html{min-width:320px}button,textarea{font-family:inherit}
+html {
+  min-width: 320px;
+}
+button,
+textarea {
+  font-family: inherit;
+}
